@@ -1,1 +1,1 @@
-Predispitna obaveza iz predmeta ASP
+Predispitna obaveza iz predmeta Web Programiranje ASP
