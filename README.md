@@ -1,1 +1,1 @@
-Predispitna obaza izpredmeta ASP
+Predispitna obaveza izpredmeta ASP
