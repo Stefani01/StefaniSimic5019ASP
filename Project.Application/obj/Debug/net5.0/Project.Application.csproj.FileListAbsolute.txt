@@ -1,0 +1,34 @@
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\bin\Debug\net5.0\Project.Application.deps.json
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\bin\Debug\net5.0\Project.Application.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\bin\Debug\net5.0\Project.Application.pdb
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\bin\Debug\net5.0\Project.DataAccess.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\bin\Debug\net5.0\Project.Domen.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\bin\Debug\net5.0\Project.DataAccess.pdb
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\bin\Debug\net5.0\Project.Domen.pdb
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\obj\Debug\net5.0\Project.Application.csproj.AssemblyReference.cache
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\obj\Debug\net5.0\Project.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\obj\Debug\net5.0\Project.Application.AssemblyInfoInputs.cache
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\obj\Debug\net5.0\Project.Application.AssemblyInfo.cs
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\obj\Debug\net5.0\Project.Application.csproj.CoreCompileInputs.cache
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\obj\Debug\net5.0\Project.Application.csproj.CopyComplete
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\obj\Debug\net5.0\Project.Application.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\obj\Debug\net5.0\refint\Project.Application.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\obj\Debug\net5.0\Project.Application.pdb
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Application\obj\Debug\net5.0\ref\Project.Application.dll
+C:\Users\teodo\Desktop\p\Project.Application\bin\Debug\net5.0\Project.Application.deps.json
+C:\Users\teodo\Desktop\p\Project.Application\bin\Debug\net5.0\Project.Application.dll
+C:\Users\teodo\Desktop\p\Project.Application\bin\Debug\net5.0\Project.Application.pdb
+C:\Users\teodo\Desktop\p\Project.Application\bin\Debug\net5.0\Project.DataAccess.dll
+C:\Users\teodo\Desktop\p\Project.Application\bin\Debug\net5.0\Project.Domen.dll
+C:\Users\teodo\Desktop\p\Project.Application\bin\Debug\net5.0\Project.DataAccess.pdb
+C:\Users\teodo\Desktop\p\Project.Application\bin\Debug\net5.0\Project.Domen.pdb
+C:\Users\teodo\Desktop\p\Project.Application\obj\Debug\net5.0\Project.Application.csproj.AssemblyReference.cache
+C:\Users\teodo\Desktop\p\Project.Application\obj\Debug\net5.0\Project.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\Desktop\p\Project.Application\obj\Debug\net5.0\Project.Application.AssemblyInfoInputs.cache
+C:\Users\teodo\Desktop\p\Project.Application\obj\Debug\net5.0\Project.Application.AssemblyInfo.cs
+C:\Users\teodo\Desktop\p\Project.Application\obj\Debug\net5.0\Project.Application.csproj.CoreCompileInputs.cache
+C:\Users\teodo\Desktop\p\Project.Application\obj\Debug\net5.0\Project.Application.csproj.CopyComplete
+C:\Users\teodo\Desktop\p\Project.Application\obj\Debug\net5.0\Project.Application.dll
+C:\Users\teodo\Desktop\p\Project.Application\obj\Debug\net5.0\refint\Project.Application.dll
+C:\Users\teodo\Desktop\p\Project.Application\obj\Debug\net5.0\Project.Application.pdb
+C:\Users\teodo\Desktop\p\Project.Application\obj\Debug\net5.0\ref\Project.Application.dll

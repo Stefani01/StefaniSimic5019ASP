@@ -1,0 +1,36 @@
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\bin\Debug\net5.0\Project.DataAccess.deps.json
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\bin\Debug\net5.0\Project.DataAccess.runtimeconfig.json
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\bin\Debug\net5.0\Project.DataAccess.runtimeconfig.dev.json
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\bin\Debug\net5.0\Project.DataAccess.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\bin\Debug\net5.0\Project.DataAccess.pdb
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\bin\Debug\net5.0\Project.Domen.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\bin\Debug\net5.0\Project.Domen.pdb
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.csproj.AssemblyReference.cache
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.AssemblyInfoInputs.cache
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.AssemblyInfo.cs
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.csproj.CopyComplete
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\obj\Debug\net5.0\refint\Project.DataAccess.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.pdb
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.genruntimeconfig.cache
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.DataAccess\obj\Debug\net5.0\ref\Project.DataAccess.dll
+C:\Users\teodo\Desktop\p\Project.DataAccess\bin\Debug\net5.0\Project.DataAccess.deps.json
+C:\Users\teodo\Desktop\p\Project.DataAccess\bin\Debug\net5.0\Project.DataAccess.runtimeconfig.json
+C:\Users\teodo\Desktop\p\Project.DataAccess\bin\Debug\net5.0\Project.DataAccess.runtimeconfig.dev.json
+C:\Users\teodo\Desktop\p\Project.DataAccess\bin\Debug\net5.0\Project.DataAccess.dll
+C:\Users\teodo\Desktop\p\Project.DataAccess\bin\Debug\net5.0\Project.DataAccess.pdb
+C:\Users\teodo\Desktop\p\Project.DataAccess\bin\Debug\net5.0\Project.Domen.dll
+C:\Users\teodo\Desktop\p\Project.DataAccess\bin\Debug\net5.0\Project.Domen.pdb
+C:\Users\teodo\Desktop\p\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.csproj.AssemblyReference.cache
+C:\Users\teodo\Desktop\p\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\Desktop\p\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.AssemblyInfoInputs.cache
+C:\Users\teodo\Desktop\p\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.AssemblyInfo.cs
+C:\Users\teodo\Desktop\p\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\teodo\Desktop\p\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.csproj.CopyComplete
+C:\Users\teodo\Desktop\p\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.dll
+C:\Users\teodo\Desktop\p\Project.DataAccess\obj\Debug\net5.0\refint\Project.DataAccess.dll
+C:\Users\teodo\Desktop\p\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.pdb
+C:\Users\teodo\Desktop\p\Project.DataAccess\obj\Debug\net5.0\Project.DataAccess.genruntimeconfig.cache
+C:\Users\teodo\Desktop\p\Project.DataAccess\obj\Debug\net5.0\ref\Project.DataAccess.dll

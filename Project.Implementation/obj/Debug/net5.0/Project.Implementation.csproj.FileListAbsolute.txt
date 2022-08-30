@@ -1,0 +1,38 @@
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\bin\Debug\net5.0\Project.Implementation.deps.json
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\bin\Debug\net5.0\Project.Implementation.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\bin\Debug\net5.0\Project.Implementation.pdb
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\bin\Debug\net5.0\Project.Application.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\bin\Debug\net5.0\Project.DataAccess.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\bin\Debug\net5.0\Project.Domen.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\bin\Debug\net5.0\Project.Application.pdb
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\bin\Debug\net5.0\Project.DataAccess.pdb
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\bin\Debug\net5.0\Project.Domen.pdb
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\obj\Debug\net5.0\Project.Implementation.csproj.AssemblyReference.cache
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\obj\Debug\net5.0\Project.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\obj\Debug\net5.0\Project.Implementation.AssemblyInfoInputs.cache
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\obj\Debug\net5.0\Project.Implementation.AssemblyInfo.cs
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\obj\Debug\net5.0\Project.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\obj\Debug\net5.0\Project.Implementation.csproj.CopyComplete
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\obj\Debug\net5.0\Project.Implementation.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\obj\Debug\net5.0\refint\Project.Implementation.dll
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\obj\Debug\net5.0\Project.Implementation.pdb
+C:\Users\teodo\Desktop\Ne diraj\Album_Project\Project.Implementation\obj\Debug\net5.0\ref\Project.Implementation.dll
+C:\Users\teodo\Desktop\p\Project.Implementation\bin\Debug\net5.0\Project.Implementation.deps.json
+C:\Users\teodo\Desktop\p\Project.Implementation\bin\Debug\net5.0\Project.Implementation.dll
+C:\Users\teodo\Desktop\p\Project.Implementation\bin\Debug\net5.0\Project.Implementation.pdb
+C:\Users\teodo\Desktop\p\Project.Implementation\bin\Debug\net5.0\Project.Application.dll
+C:\Users\teodo\Desktop\p\Project.Implementation\bin\Debug\net5.0\Project.DataAccess.dll
+C:\Users\teodo\Desktop\p\Project.Implementation\bin\Debug\net5.0\Project.Domen.dll
+C:\Users\teodo\Desktop\p\Project.Implementation\bin\Debug\net5.0\Project.Application.pdb
+C:\Users\teodo\Desktop\p\Project.Implementation\bin\Debug\net5.0\Project.DataAccess.pdb
+C:\Users\teodo\Desktop\p\Project.Implementation\bin\Debug\net5.0\Project.Domen.pdb
+C:\Users\teodo\Desktop\p\Project.Implementation\obj\Debug\net5.0\Project.Implementation.csproj.AssemblyReference.cache
+C:\Users\teodo\Desktop\p\Project.Implementation\obj\Debug\net5.0\Project.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\Desktop\p\Project.Implementation\obj\Debug\net5.0\Project.Implementation.AssemblyInfoInputs.cache
+C:\Users\teodo\Desktop\p\Project.Implementation\obj\Debug\net5.0\Project.Implementation.AssemblyInfo.cs
+C:\Users\teodo\Desktop\p\Project.Implementation\obj\Debug\net5.0\Project.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\teodo\Desktop\p\Project.Implementation\obj\Debug\net5.0\Project.Implementation.csproj.CopyComplete
+C:\Users\teodo\Desktop\p\Project.Implementation\obj\Debug\net5.0\Project.Implementation.dll
+C:\Users\teodo\Desktop\p\Project.Implementation\obj\Debug\net5.0\refint\Project.Implementation.dll
+C:\Users\teodo\Desktop\p\Project.Implementation\obj\Debug\net5.0\Project.Implementation.pdb
+C:\Users\teodo\Desktop\p\Project.Implementation\obj\Debug\net5.0\ref\Project.Implementation.dll
