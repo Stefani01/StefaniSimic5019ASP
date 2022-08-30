@@ -1,1 +1,1 @@
-Predispitna obaveza izpredmeta ASP
+Predispitna obaveza iz predmeta ASP
