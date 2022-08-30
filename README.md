@@ -1,1 +1,1 @@
-# StefaniSimic5019ASP
+Predispitna obaza izpredmeta ASP
